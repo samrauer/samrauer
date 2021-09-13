@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-🥛 Fun fact: favorite drink is chocolate milk :)
-
 <!--
 **samrauerbach/samrauerbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
